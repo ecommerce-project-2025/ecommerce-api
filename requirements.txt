@@ -1,0 +1,14 @@
+fastapi
+fastapi-mail 
+python-multipart 
+jinja2
+pyjwt
+passlib[argon2]
+python-dotenv
+sqlmodel
+pydantic_settings
+debugpy
+mysql-connector-python
+psycopg2-binary
+uvicorn
+dependency-injector
